@@ -1,11 +1,11 @@
 # Currency_Detection
-Project Title: Text Classification for Real vs. Fake News Detection
+Project Title: Currency Detection
 
 Description:
 
 📰 Overview:
 
-In my recent project, I tackled the critical challenge of identifying real news from fake news using machine learning and natural language processing (NLP) techniques. This project aimed to contribute to the ongoing efforts to combat misinformation and improve information reliability.
+The growing need for accurate identification and classification of currency due to increasing globalization and international trade is crucial for financial stability. Our project aims to develop a robust system for identifying and classifying Indian currency using image processing and machine learning techniques. This system will help prevent counterfeiting, ensure accurate currency exchange, support monetary policy decisions, and aid in historical research. By leveraging transfer learning, the system will recognize various denominations and provide their corresponding values. This will benefit banks, retailers, travelers, and law enforcement agencies in promoting economic growth and preventing financial crimes.
 
 🔍 Key Highlights:
 
@@ -23,4 +23,4 @@ Employed the TF-IDF vectorization technique to convert text data into numerical 
 
 Split the dataset into training and testing sets for model evaluation. Achieved a balanced split to ensure reliable performance metrics. 📈 Results:
 
-Achieved impressive accuracy on both the training and testing datasets, demonstrating the model's effectiveness in distinguishing between real and fake news.
+Achieved impressive accuracy on both the training and testing datasets, demonstrating the model's effectiveness in detection and classification of currency.
